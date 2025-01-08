@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JamesthewBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0cf724a9efcf25d79a20b9a2a570f9efda12a8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+755568aa7d58ae468813d14f59a1de55f78cd025")]
 [assembly: System.Reflection.AssemblyProductAttribute("JamesthewBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JamesthewBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
