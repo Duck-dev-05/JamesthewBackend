@@ -1,10 +1,7 @@
-namespace JamesthewBackend.Models
+public class Feedback
 {
-    public class Feedback
-    {
-        public int Id { get; set; }
-        public required string UserName { get; set; }
-        public required string Message { get; set; }
-        public DateTime DateSubmitted { get; set; }
-    }
+    public int Id { get; set; }
+    public required string UserId { get; set; }
+    public required string RecipeId { get; set; }
+    public required string Comments { get; set; }
 }
